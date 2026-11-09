@@ -1,0 +1,7 @@
+==================================================
+WEB SCRAPING & DATA EXTRACTION SUMMARY REPORT
+==================================================
+Total Quotes Extracted : 20
+Unique Authors Found   : 15
+Average Quote Length   : 174.55 characters
+==================================================
